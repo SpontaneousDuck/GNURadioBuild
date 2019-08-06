@@ -8,9 +8,6 @@ depends:
 - alsa
 - numpy
 - lxml
-- pygtk
-- pycairo
-- pyqt5
 - qwt5
 - liblog4cpp
 - zeromq
